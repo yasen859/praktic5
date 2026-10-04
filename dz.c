@@ -28,7 +28,7 @@ int main() {
 	u = first - second;
 	printf("u = %6lf\n", u);
 	return 0;
-
+	system("pause");
 
 
 }
