@@ -24,7 +24,6 @@ int main() {
 	scanf_s("%lf", &y);
 	scanf_s("%lf", &z);
 	double first = name;
-	double tg_z = tan(z);
 	double second = name2;
 	u = first - second;
 	printf("u = %6lf\n", u);
